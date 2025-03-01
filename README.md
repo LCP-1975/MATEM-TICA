@@ -10,7 +10,7 @@ Este repositorio contiene material teórico, ejercicios y ejemplos prácticos pa
 
 ## 🚀 ¿Cómo usar este repositorio?  
 1️⃣ Explora los temas en las carpetas correspondientes.  
-2️⃣ Revisa los archivos en formato **Markdown (`.md`)** y **Jupyter Notebook (`.ipynb`)**.  
+2️⃣ Revisa los archivos en formato **Markdown (`.md`)** y **PDF**.  
 3️⃣ Si tienes dudas o sugerencias, abre un **Issue** o contribuye con mejoras.  
 
 ## 🔗 Recursos adicionales  
