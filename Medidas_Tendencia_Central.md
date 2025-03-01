@@ -37,9 +37,6 @@ La **mediana** es el valor central cuando los datos están ordenados de menor a 
 - Datos: 3, 5, 7, 9, 11 → **Mediana: 7** (tercer valor)
 - Datos: 2, 4, 6, 8 → **Mediana: (4+6)/2 = 5**
 
-🖼️ **Imagen Representativa:**
-![Mediana](https://cdn-blog.superprof.com/blog_all/wp-content/uploads/latex/50411ef65de291a08bf051000253689aec732773.png)
-
 🎥 **Video Explicativo:** [Ver video](https://www.youtube.com/watch?v=ms_prB5cLI8)
 
 📝 **Ejercicio:**
