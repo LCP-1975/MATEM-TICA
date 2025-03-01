@@ -14,7 +14,7 @@ Este repositorio contiene material teórico, ejercicios y ejemplos prácticos pa
 3️⃣ Si tienes dudas o sugerencias, abre un **Issue** o contribuye con mejoras.  
 
 ## 🔗 Recursos adicionales  
-📌 [Página web del curso]([https://github.com/LCP-1975/MATEM-TICA.git])
+📌 [Página web del curso](https://github.com/LCP-1975/MATEM-TICA.git)
 
 ---
 
